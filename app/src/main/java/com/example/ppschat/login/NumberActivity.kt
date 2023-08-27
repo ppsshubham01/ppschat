@@ -8,5 +8,6 @@ class NumberActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_number)
+        setContentView(R.layout.activity_number)
     }
 }
